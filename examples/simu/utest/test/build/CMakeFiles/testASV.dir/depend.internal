@@ -256,6 +256,9 @@ CMakeFiles/testASV.dir/run.cc.o
  ../../../../../modules/controller/include/controllerdata.h
  ../../../../../modules/controller/include/thrustallocation.h
  ../../../../../modules/controller/include/trajectorytracking.h
+ ../../../../../modules/envirment_simu/current/include/current.h
+ ../../../../../modules/envirment_simu/wave/wave.h
+ ../../../../../modules/envirment_simu/wind/include/windcompensation.h
  ../../../../../modules/estimator/include/estimator.h
  ../../../../../modules/estimator/include/estimatordata.h
  ../../../../../modules/estimator/include/kalmanfilter.h
@@ -268,6 +271,7 @@ CMakeFiles/testASV.dir/run.cc.o
  ../../../../../modules/simulator/include/simulatordata.h
  /home/skloe/Documents/毕业要紧/MultiVesselControl/examples/simu/utest/include/threadloop.h
  /home/skloe/Documents/毕业要紧/MultiVesselControl/examples/simu/utest/test/run.cc
+ /home/skloe/Documents/毕业要紧/MultiVesselControl/modules/estimator/include/lowpass.h
  /opt/mosek/9.0/tools/platform/linux64x86/h/mosek.h
  /usr/local/include/sqlite_modern_cpp.h
  /usr/local/include/sqlite_modern_cpp/errors.h

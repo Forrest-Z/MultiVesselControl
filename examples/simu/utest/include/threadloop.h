@@ -8,6 +8,9 @@
 #include "common/timer/include/timecounter.h"
 #include "modules/controller/include/controller.h"
 #include "modules/controller/include/trajectorytracking.h"
+#include "modules/envirment_simu/current/include/current.h"
+#include "modules/envirment_simu/wave/wave.h"
+#include "modules/envirment_simu/wind/include/windcompensation.h"
 #include "modules/estimator/include/estimator.h"
 #include "modules/simulator/include/simulator.h"
 
@@ -27,7 +30,11 @@ constexpr common::TESTMODE testmode = common::TESTMODE::SIMULATION_DP;
 
 class threadloop {
  public:
-  threadloop() : _jsonparse(parameter_json_path) {
+  threadloop()
+      : _currentcompensation(currentloadRTdata),
+        _mywave(5, 9),
+        _windcompensation(windloadRTdata),
+        _jsonparse(parameter_json_path) {
     std::cout << "后造函数" << std::endl;
   };
   ~threadloop(){};
@@ -36,10 +43,12 @@ class threadloop {
     std::thread controller_thread(&threadloop::controllerloop, this);
     std::thread estimator_thread(&threadloop::estimatorloop, this);
     std::thread sql_thread(&threadloop::sqlloop, this);
+    std::thread seaload_thread(&threadloop::sealoadloop, this);
 
     estimator_thread.join();
     controller_thread.join();
     sql_thread.join();
+    seaload_thread.join();
   }
 
  private:
@@ -96,9 +105,42 @@ class threadloop {
       Eigen::Vector3d::Zero()               // BalphaU
   };
 
+  Eigen::Vector3d windloadRTdata = Eigen::Vector3d::Zero();
+  Eigen::Vector3d waveloadRTdata = Eigen::Vector3d::Zero();
+  Eigen::Vector3d currentloadRTdata = Eigen::Vector3d::Zero();
   /********************* Modules  *********************/
   // json
   common::jsonparse<num_thruster, dim_controlspace> _jsonparse;
+  ASV::localization::windcompensation _windcompensation;
+  mywave _mywave;
+  current _currentcompensation;
+
+  void sealoadloop() {
+    while (1) {
+      //风力
+      windloadRTdata = _windcompensation
+                           .computewindload(2, 1.57, estimator_RTdata.State(3),
+                                            estimator_RTdata.State(4),
+                                            estimator_RTdata.State(2))
+                           .getsealoadRTdata();  //风速、风向、船速u、v、船向
+      std::cout << "????????????????????" << windloadRTdata(0) << "  "
+                << windloadRTdata(1) << "  " << windloadRTdata(2) << std::endl;
+
+      //浪
+      _mywave.cal_wave_force(1.57, 100);  //遭遇频率和船长
+      waveloadRTdata(0) = _mywave.get_wave_force().wave_fx;
+      waveloadRTdata(1) = _mywave.get_wave_force().wave_fy;
+      waveloadRTdata(2) = _mywave.get_wave_force().wave_fz;
+
+      //流
+      currentloadRTdata =
+          _currentcompensation
+              .computecurrentload(2, 1.57, estimator_RTdata.State(3),
+                                  estimator_RTdata.State(4),
+                                  estimator_RTdata.State(2))
+              .getcurrentloadRTdata();  //流速、流向、船速u、v、船向
+    }
+  }
 
   void sqlloop() {
     std::cout << "db创建ing" << std::endl;
@@ -254,24 +296,24 @@ class threadloop {
                                  .estimateerror(tracker_RTdata.setpoint,
                                                 tracker_RTdata.v_setpoint)
                                  .getEstimatorRTData();
-          std::cout
-              << "*********************************************************"
-              << std::endl;
+          // std::cout
+          //     << "*********************************************************"
+          //     << std::endl;
 
-          std::cout << "state: " << std::endl
-                    << estimator_RTdata.State << std::endl;
-          std::cout << "p_error: " << std::endl
-                    << estimator_RTdata.p_error << std::endl;
-          std::cout << "v_error: " << std::endl
-                    << estimator_RTdata.v_error << std::endl;
-          std::cout << "controller_RTdata.tau: " << std::endl
-                    << controller_RTdata.tau << std::endl;
-          std::cout << "controller_RTdata.BalphaU: " << std::endl
-                    << controller_RTdata.BalphaU << std::endl;
-          std::cout << "tracker_RTdata.setpoint: " << std::endl
-                    << tracker_RTdata.v_setpoint << std::endl;
-          std::cout << "tracker_RTdata.v_setpoint: " << std::endl
-                    << tracker_RTdata.setpoint << std::endl;
+          // std::cout << "state: " << std::endl
+          //           << estimator_RTdata.State << std::endl;
+          // std::cout << "p_error: " << std::endl
+          //           << estimator_RTdata.p_error << std::endl;
+          // std::cout << "v_error: " << std::endl
+          //           << estimator_RTdata.v_error << std::endl;
+          // std::cout << "controller_RTdata.tau: " << std::endl
+          //           << controller_RTdata.tau << std::endl;
+          // std::cout << "controller_RTdata.BalphaU: " << std::endl
+          //           << controller_RTdata.BalphaU << std::endl;
+          // std::cout << "tracker_RTdata.setpoint: " << std::endl
+          //           << tracker_RTdata.v_setpoint << std::endl;
+          // std::cout << "tracker_RTdata.v_setpoint: " << std::endl
+          //           << tracker_RTdata.setpoint << std::endl;
 
           innerloop_elapsed_time = timer_estimator.timeelapsed();
           std::this_thread::sleep_for(

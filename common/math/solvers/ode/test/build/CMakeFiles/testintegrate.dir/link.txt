@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -Wall -Wextra -g -ggdb -pedantic   CMakeFiles/testintegrate.dir/integrate.cc.o  -o testintegrate 

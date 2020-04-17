@@ -1135,3 +1135,2496 @@
     [9] ./testASV(+0xf11a) [0x55ba4668c11a] 
 
 2020-04-16 23:37:57,895 WARNING [default] Aborting application. Reason: Fatal log at [/home/skloe/Documents/毕业要紧/MultiVesselControl/common/logging/src/easylogging++.cc:3255]
+2020-04-17 17:28:20,793 INFO [default] The program has started!
+2020-04-17 17:28:20,800 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,803 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,807 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,807 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,811 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,814 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,814 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,817 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,822 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,822 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,825 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,829 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,829 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,832 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,835 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,835 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,840 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,845 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,846 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,850 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,855 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,855 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,860 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,864 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,864 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,869 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,874 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,874 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,879 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,883 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,883 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,887 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,892 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,892 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,896 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,900 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,900 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,905 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,911 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,911 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,915 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,917 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:28:20,923 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,923 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,928 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,932 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,932 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,938 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,942 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,942 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,947 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,951 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,951 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,955 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,959 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,960 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,965 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,969 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,970 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,974 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,979 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,979 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,984 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,987 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,987 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,991 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:20,994 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,994 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:20,997 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,002 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,002 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,005 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,006 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:28:21,009 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,009 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,013 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,016 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,016 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,019 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,022 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,022 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,026 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,029 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,029 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,033 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,036 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,036 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,039 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,042 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,042 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,045 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,048 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,048 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,052 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,054 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,054 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,057 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,060 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,061 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,065 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,068 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,068 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,071 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,075 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,075 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,078 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,080 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,080 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,084 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,087 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,087 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,090 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,094 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,094 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,098 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,101 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,101 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,104 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,106 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:28:21,109 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,109 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,112 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,116 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,116 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,119 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,122 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,122 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,126 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,129 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,129 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,132 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,136 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,136 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,139 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,142 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,142 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,146 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,148 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,148 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,151 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,156 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,156 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,158 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,162 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,162 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,165 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,168 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,168 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,171 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,174 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,174 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,178 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,181 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,181 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,184 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,189 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,189 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,191 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,194 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,195 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,199 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,202 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,202 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,204 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,207 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:28:21,207 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,207 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,210 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,214 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,214 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,218 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,221 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,221 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,223 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,228 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,228 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,231 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,234 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,234 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,238 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,241 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,241 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,244 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,247 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,247 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,251 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,254 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,254 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,257 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,261 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,261 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,265 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,268 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,268 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,272 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,274 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,274 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,278 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,283 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,283 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,286 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,288 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,289 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,291 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,294 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,294 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,297 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,300 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,300 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,304 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,307 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,307 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,308 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:28:21,312 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,316 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,316 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,319 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,321 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,322 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,325 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,329 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,329 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,331 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,335 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,335 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,339 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,342 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,342 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,346 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,349 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,349 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,352 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,355 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,355 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,359 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,362 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,362 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,365 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,369 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,369 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,372 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,374 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,375 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,378 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,381 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,381 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,384 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,388 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,388 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,390 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,393 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,393 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,397 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,400 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,401 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,403 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,406 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,406 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,407 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:28:21,412 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,415 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,415 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,418 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,422 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,422 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,425 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,428 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,428 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,432 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,435 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,435 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,438 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,442 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,442 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,445 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,449 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,449 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,453 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,455 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,455 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,458 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,462 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,463 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,466 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,469 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,469 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,473 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,476 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,476 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,479 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,483 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,483 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,486 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,489 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,489 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,494 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,502 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,502 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,505 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,508 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:28:21,509 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,509 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,511 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,514 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,514 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,517 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,521 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,521 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,524 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,527 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,527 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,531 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,534 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,534 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,537 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,542 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,542 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,544 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,547 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,547 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,550 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,553 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,553 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,556 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,560 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,560 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,564 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,567 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,567 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,571 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,574 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,574 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,577 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,581 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,581 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,584 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,587 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,587 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,591 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,595 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,595 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,598 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,602 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,602 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,605 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,608 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,608 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,612 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,616 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,616 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,619 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,624 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,624 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,628 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,632 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,632 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,636 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,640 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,640 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,644 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,650 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,650 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,654 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,658 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,659 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,664 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,669 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,669 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,674 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,678 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,679 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,685 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,688 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,689 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,692 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,697 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,697 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,701 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,704 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,704 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,709 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,712 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:28:21,715 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,715 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,718 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,722 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,722 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,725 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,730 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,730 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,732 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,735 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,735 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,738 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,742 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,742 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,746 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,750 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,750 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,753 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,755 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,755 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,759 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,762 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,762 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,765 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,769 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,769 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,773 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,776 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,776 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,779 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,783 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,783 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,786 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,788 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,788 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,792 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,795 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,795 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,797 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,801 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,801 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,804 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,807 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,807 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,811 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,811 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:28:21,814 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,814 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,817 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,820 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,820 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,822 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,825 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,825 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,829 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,832 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,832 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,835 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,839 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,839 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,842 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,845 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,845 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,849 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,852 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,852 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,855 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,858 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,858 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,861 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,865 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,865 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,868 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,872 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,872 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,875 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,878 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,878 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,882 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,885 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,885 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,887 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,891 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,891 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,894 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,898 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,898 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,901 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,903 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,903 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,907 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,910 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,910 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,912 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:28:21,915 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,917 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,917 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,921 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,924 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,924 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,928 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,932 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,932 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,935 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,938 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,938 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,943 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,946 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,946 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,949 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,953 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,953 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,955 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,959 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,959 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,964 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,967 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,967 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,970 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,974 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,974 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,977 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,979 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,979 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,982 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,985 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,985 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,988 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,992 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,992 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,995 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:21,998 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:21,998 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,002 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,005 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,005 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,008 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,011 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,011 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,012 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:28:22,015 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,018 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,018 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,021 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,025 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,025 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,029 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,031 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,031 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,035 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,038 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,038 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,040 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,044 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,044 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,047 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,052 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,053 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,056 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,058 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,058 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,062 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,065 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,065 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,068 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,072 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,072 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,074 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,077 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,077 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,081 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,085 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,085 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,088 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,090 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,090 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,095 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,098 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,098 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,101 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,105 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,105 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,108 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,112 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,112 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,114 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:28:22,118 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,121 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,121 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,124 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,128 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,128 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,131 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,134 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,134 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,138 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,142 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,142 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,146 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,149 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,149 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,152 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,155 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,155 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,159 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,162 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,162 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,164 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,167 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,167 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,171 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,174 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,174 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,178 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,182 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,182 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,185 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,188 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,188 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,192 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,195 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,195 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,198 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,200 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,200 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,205 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,208 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,208 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,211 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,213 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:28:22,216 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,216 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,219 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,222 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,222 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,226 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,229 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,229 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,232 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,235 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,235 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,238 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,241 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,241 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,246 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,249 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,249 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,252 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,254 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,254 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,258 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,261 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,261 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,264 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,268 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,268 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,271 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,274 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,274 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,279 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,282 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,282 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,285 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,287 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,288 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,291 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,294 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,294 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,298 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,302 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,303 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,305 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,308 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,308 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,312 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,314 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:28:22,317 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,317 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,320 ERROR [sql-controller] SQL logic error
+2020-04-17 17:28:22,323 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:28:22,323 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+    ======= Backtrace: =========
+    [1] ./testASV(+0x21160) [0x55e387ec4160] 
+    [2] ./testASV(+0x21341) [0x55e387ec4341] 
+    [3]  0x3ef20) [0x7fadb8701f20]:_64-linux-gnu/libc.so.6(+0x3ef20) [0x7fadb8701f20]
+    [4]  0x8d2b) [0x7fadbafc7d2b]:_64-linux-gnu/libpthread.so.0(+0x8d2b) [0x7fadbafc7d2b]
+    [5]  0x13) [0x7fadb9127933]:_64-linux-gnu/libstdc++.so.6(_ZNSt6thread4joinEv+0x13) [0x7fadb9127933]
+    [6] ./testASV(+0x5e3e0) [0x55e387f013e0] 
+    [7] ./testASV(+0x53a84) [0x55e387ef6a84] 
+    [8]  0xe7) [0x7fadb86e4b97]:_64-linux-gnu/libc.so.6(__libc_start_main+0xe7) [0x7fadb86e4b97]
+    [9] ./testASV(+0xf11a) [0x55e387eb211a] 
+
+2020-04-17 17:28:22,323 WARNING [default] Aborting application. Reason: Fatal log at [/home/skloe/Documents/毕业要紧/MultiVesselControl/common/logging/src/easylogging++.cc:3255]
+2020-04-17 17:30:00,814 INFO [default] The program has started!
+2020-04-17 17:30:00,923 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:30:01,020 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:30:01,119 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:30:01,220 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:30:01,321 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:30:01,422 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:30:01,523 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:30:01,724 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:30:01,825 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:30:01,926 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:30:02,027 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:30:02,128 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:30:02,229 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:30:02,331 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:30:02,431 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:30:02,531 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:30:09,886 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+    ======= Backtrace: =========
+    [1] ./testASV(+0x21160) [0x558fd7d59160] 
+    [2] ./testASV(+0x21341) [0x558fd7d59341] 
+    [3]  0x3ef20) [0x7f40b7681f20]:_64-linux-gnu/libc.so.6(+0x3ef20) [0x7f40b7681f20]
+    [4]  0x8d2b) [0x7f40b9f47d2b]:_64-linux-gnu/libpthread.so.0(+0x8d2b) [0x7f40b9f47d2b]
+    [5]  0x13) [0x7f40b80a7933]:_64-linux-gnu/libstdc++.so.6(_ZNSt6thread4joinEv+0x13) [0x7f40b80a7933]
+    [6] ./testASV(+0x5e3e0) [0x558fd7d963e0] 
+    [7] ./testASV(+0x53a84) [0x558fd7d8ba84] 
+    [8]  0xe7) [0x7f40b7664b97]:_64-linux-gnu/libc.so.6(__libc_start_main+0xe7) [0x7f40b7664b97]
+    [9] ./testASV(+0xf11a) [0x558fd7d4711a] 
+
+2020-04-17 17:30:09,886 WARNING [default] Aborting application. Reason: Fatal log at [/home/skloe/Documents/毕业要紧/MultiVesselControl/common/logging/src/easylogging++.cc:3255]
+2020-04-17 17:33:01,795 INFO [default] The program has started!
+2020-04-17 17:33:01,905 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:33:02,000 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:33:02,100 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:33:02,201 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:33:02,302 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:33:02,403 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:33:02,504 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:33:02,706 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:33:02,808 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:33:02,907 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:33:03,008 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:33:03,109 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:33:03,209 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:33:03,310 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:33:03,411 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:33:03,512 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:33:05,424 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+    ======= Backtrace: =========
+    [1] ./testASV(+0x21160) [0x555bd87e6160] 
+    [2] ./testASV(+0x21341) [0x555bd87e6341] 
+    [3]  0x3ef20) [0x7fc17bc06f20]:_64-linux-gnu/libc.so.6(+0x3ef20) [0x7fc17bc06f20]
+    [4]  0x8d2b) [0x7fc17e4ccd2b]:_64-linux-gnu/libpthread.so.0(+0x8d2b) [0x7fc17e4ccd2b]
+    [5]  0x13) [0x7fc17c62c933]:_64-linux-gnu/libstdc++.so.6(_ZNSt6thread4joinEv+0x13) [0x7fc17c62c933]
+    [6] ./testASV(+0x5e3e0) [0x555bd88233e0] 
+    [7] ./testASV(+0x53a84) [0x555bd8818a84] 
+    [8]  0xe7) [0x7fc17bbe9b97]:_64-linux-gnu/libc.so.6(__libc_start_main+0xe7) [0x7fc17bbe9b97]
+    [9] ./testASV(+0xf11a) [0x555bd87d411a] 
+
+2020-04-17 17:33:05,425 WARNING [default] Aborting application. Reason: Fatal log at [/home/skloe/Documents/毕业要紧/MultiVesselControl/common/logging/src/easylogging++.cc:3255]
+2020-04-17 17:34:46,846 INFO [default] The program has started!
+2020-04-17 17:34:46,851 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,855 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:46,858 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,858 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,861 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:46,865 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,866 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,870 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:46,874 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,875 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,878 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:46,882 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,883 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,887 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:46,892 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,892 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,896 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:46,900 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,900 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,904 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:46,909 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,910 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,914 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:46,918 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,918 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,924 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:46,928 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,928 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,932 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:46,936 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,937 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,942 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:46,947 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,947 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,951 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:46,956 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:46,956 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,957 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,962 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:46,966 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,966 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,971 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:46,976 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,976 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,980 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:46,984 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,984 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,990 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:46,994 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,994 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:46,998 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,004 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,004 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,008 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,013 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,013 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,017 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,022 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,022 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,026 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,030 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,030 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,035 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,039 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,039 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,042 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,045 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,045 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,049 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,052 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:47,052 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,052 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,055 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,059 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,059 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,063 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,065 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,066 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,069 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,073 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,073 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,076 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,078 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,078 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,081 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,086 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,086 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,089 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,092 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,092 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,096 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,098 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,098 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,101 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,104 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,105 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,107 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,110 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,110 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,114 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,116 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,116 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,119 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,122 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,122 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,126 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,129 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,129 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,132 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,136 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,136 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,139 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,142 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,142 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,145 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,149 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,149 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,152 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:47,152 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,156 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,156 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,158 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,162 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,162 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,165 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,168 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,168 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,171 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,174 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,174 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,177 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,181 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,181 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,184 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,188 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,188 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,191 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,194 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,194 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,197 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,200 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,200 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,203 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,206 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,206 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,209 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,213 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,213 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,216 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,220 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,220 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,224 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,227 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,227 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,230 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,233 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,233 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,237 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,240 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,240 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,242 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,245 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,246 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,249 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,253 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:47,253 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,253 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,256 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,259 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,259 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,262 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,265 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,265 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,269 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,272 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,272 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,275 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,279 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,279 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,282 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,286 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,286 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,290 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,293 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,293 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,296 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,299 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,299 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,303 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,306 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,306 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,309 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,312 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,312 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,316 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,319 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,319 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,323 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,326 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,326 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,329 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,332 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,332 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,334 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,339 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,339 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,342 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,345 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,345 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,348 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,352 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,352 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,353 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:47,357 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,361 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,361 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,363 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,366 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,366 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,370 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,373 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,373 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,376 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,379 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,379 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,382 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,385 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,385 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,388 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,391 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,392 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,394 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,397 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,397 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,400 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,405 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,405 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,408 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,411 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,411 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,415 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,418 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,418 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,420 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,423 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,423 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,427 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,430 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,430 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,433 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,437 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,437 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,441 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,444 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,444 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,447 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,451 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,451 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,453 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:47,454 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,456 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,457 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,460 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,463 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,463 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,466 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,471 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,472 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,475 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,478 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,478 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,481 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,484 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,484 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,488 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,490 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,490 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,495 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,498 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,498 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,501 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,504 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,504 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,508 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,511 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,511 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,514 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,517 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,517 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,520 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,523 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,523 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,526 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,531 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,531 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,534 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,537 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,537 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,541 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,544 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,544 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,547 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,550 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,550 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,553 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,554 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:47,556 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,557 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,560 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,564 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,564 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,567 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,571 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,571 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,574 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,577 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,577 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,581 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,585 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,585 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,588 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,591 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,591 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,594 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,598 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,598 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,601 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,604 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,605 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,608 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,611 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,611 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,614 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,617 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,617 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,622 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,625 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,625 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,628 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,632 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,632 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,635 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,638 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,638 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,641 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,644 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,644 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,647 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,652 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,652 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,655 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,658 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,659 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,661 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,666 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,666 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,668 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,671 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,671 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,676 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,679 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,679 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,683 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,686 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,686 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,691 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,695 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,695 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,699 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,703 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,703 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,708 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,712 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,712 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,717 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,722 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,722 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,726 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,730 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,730 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,735 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,738 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,738 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,741 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,745 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,745 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,748 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,750 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,751 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,754 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,756 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:47,759 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,759 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,762 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,764 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,764 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,768 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,771 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,771 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,774 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,777 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,777 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,781 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,784 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,784 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,787 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,791 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,791 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,794 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,797 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,797 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,799 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,804 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,804 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,807 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,810 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,810 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,813 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,816 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,816 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,820 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,823 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,823 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,827 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,830 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,830 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,833 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,835 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,835 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,838 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,841 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,841 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,845 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,848 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,848 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,851 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,854 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,854 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,856 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:47,857 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,860 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,860 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,863 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,867 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,867 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,871 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,874 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,874 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,877 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,881 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,881 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,883 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,886 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,886 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,890 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,893 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,893 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,895 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,898 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,898 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,903 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,906 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,906 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,908 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,912 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,912 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,915 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,918 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,918 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,921 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,924 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,924 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,927 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,931 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,931 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,934 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,938 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,938 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,940 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,944 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,944 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,946 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,949 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,949 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,953 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,955 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,955 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,957 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:47,958 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,961 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,961 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,965 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,968 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,969 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,972 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,975 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,975 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,979 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,982 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,982 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,985 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,989 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,989 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,992 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:47,995 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,995 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:47,999 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,002 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,002 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,006 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,009 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,009 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,012 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,014 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,015 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,017 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,021 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,021 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,024 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,027 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,027 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,031 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,034 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,034 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,037 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,040 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,040 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,044 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,047 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,047 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,049 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,054 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,054 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,057 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,057 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:48,061 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,061 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,064 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,068 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,068 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,071 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,074 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,074 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,078 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,081 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,081 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,084 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,088 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,088 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,092 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,095 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,095 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,097 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,100 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,100 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,103 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,106 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,106 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,109 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,112 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,112 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,116 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,119 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,119 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,123 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,126 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,126 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,129 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,133 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,133 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,136 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,139 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,139 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,141 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,145 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,145 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,148 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,152 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,152 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,156 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,158 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:48,159 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,159 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,162 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,164 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,165 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,168 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,171 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,171 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,174 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,179 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,179 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,181 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,184 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,185 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,189 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,192 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,192 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,194 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,198 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,198 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,201 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,204 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,204 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,207 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,211 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,211 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,214 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,217 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,217 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,221 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,224 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,225 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,227 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,230 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,230 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,234 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,237 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,237 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,240 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,245 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,245 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,248 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,251 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,252 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,255 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,259 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:48,260 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,260 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,262 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,266 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,266 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,270 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,274 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,274 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,277 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,280 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,280 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,283 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,286 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,286 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,290 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,293 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,293 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,296 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,298 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,299 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,303 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,306 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,306 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,309 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,313 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,313 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,316 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,319 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,319 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,322 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,325 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,325 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,328 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,332 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,332 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,335 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,339 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,339 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,342 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,345 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,345 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,349 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,352 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,352 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,355 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,359 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,359 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,360 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:48,363 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,366 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,366 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,370 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,374 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,374 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,379 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,383 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,383 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,388 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,393 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,393 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,398 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,404 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,404 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,409 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,413 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,413 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,417 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,422 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,423 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,427 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,432 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,432 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,438 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,442 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,442 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,445 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,454 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,454 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,458 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,460 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:48,461 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,461 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,464 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,469 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,469 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,472 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,475 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,475 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,478 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,481 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,481 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,484 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,488 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,488 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,491 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,494 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,494 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,497 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,501 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,501 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,504 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,506 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,507 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,509 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,513 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,513 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,516 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,520 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,520 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,524 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,527 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,527 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,529 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,532 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,532 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,536 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,539 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,539 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,542 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,546 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,546 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,549 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,553 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,553 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,557 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,560 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:48,561 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,561 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:34:48,563 ERROR [sql-controller] SQL logic error
+2020-04-17 17:34:48,564 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+    ======= Backtrace: =========
+    [1] ./testASV(+0x21160) [0x56441ea00160] 
+    [2] ./testASV(+0x21341) [0x56441ea00341] 
+    [3]  0x3ef20) [0x7f95dfed5f20]:_64-linux-gnu/libc.so.6(+0x3ef20) [0x7f95dfed5f20]
+    [4]  0x8d2b) [0x7f95e279bd2b]:_64-linux-gnu/libpthread.so.0(+0x8d2b) [0x7f95e279bd2b]
+    [5]  0x13) [0x7f95e08fb933]:_64-linux-gnu/libstdc++.so.6(_ZNSt6thread4joinEv+0x13) [0x7f95e08fb933]
+    [6] ./testASV(+0x5e3e0) [0x56441ea3d3e0] 
+    [7] ./testASV(+0x53a84) [0x56441ea32a84] 
+    [8]  0xe7) [0x7f95dfeb8b97]:_64-linux-gnu/libc.so.6(__libc_start_main+0xe7) [0x7f95dfeb8b97]
+    [9] ./testASV(+0xf11a) [0x56441e9ee11a] 
+
+2020-04-17 17:34:48,564 WARNING [default] Aborting application. Reason: Fatal log at [/home/skloe/Documents/毕业要紧/MultiVesselControl/common/logging/src/easylogging++.cc:3255]
+2020-04-17 17:34:54,185 INFO [default] The program has started!
+2020-04-17 17:34:54,295 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:54,390 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:54,489 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:54,591 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:54,691 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:54,791 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:54,892 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:55,094 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:55,194 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:55,296 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:55,395 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:55,496 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:55,597 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:55,702 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:55,800 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:34:55,901 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:35:02,005 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+    ======= Backtrace: =========
+    [1] ./testASV(+0x21160) [0x5609376f3160] 
+    [2] ./testASV(+0x21341) [0x5609376f3341] 
+    [3]  0x3ef20) [0x7f981243ef20]:_64-linux-gnu/libc.so.6(+0x3ef20) [0x7f981243ef20]
+    [4]  0x8d2b) [0x7f9814d04d2b]:_64-linux-gnu/libpthread.so.0(+0x8d2b) [0x7f9814d04d2b]
+    [5]  0x13) [0x7f9812e64933]:_64-linux-gnu/libstdc++.so.6(_ZNSt6thread4joinEv+0x13) [0x7f9812e64933]
+    [6] ./testASV(+0x5e3e0) [0x5609377303e0] 
+    [7] ./testASV(+0x53a84) [0x560937725a84] 
+    [8]  0xe7) [0x7f9812421b97]:_64-linux-gnu/libc.so.6(__libc_start_main+0xe7) [0x7f9812421b97]
+    [9] ./testASV(+0xf11a) [0x5609376e111a] 
+
+2020-04-17 17:35:02,005 WARNING [default] Aborting application. Reason: Fatal log at [/home/skloe/Documents/毕业要紧/MultiVesselControl/common/logging/src/easylogging++.cc:3255]
+2020-04-17 17:36:46,382 INFO [default] The program has started!
+2020-04-17 17:36:46,388 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,402 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:46,430 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,430 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,463 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:46,476 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,476 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,494 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:36:46,507 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:46,512 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,512 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,515 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:46,519 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,519 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,523 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:46,528 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,538 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,542 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:46,564 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,564 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,575 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:46,587 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:36:46,615 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,625 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,642 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:46,645 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,645 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,648 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:46,651 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,651 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,654 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:46,658 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,668 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,671 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:46,677 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,677 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,684 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:46,686 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:36:46,687 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,687 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,694 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:46,700 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,712 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,724 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:46,769 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,769 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,787 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:46,799 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:36:46,814 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,814 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,842 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:46,862 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,862 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,881 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:46,889 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:36:46,924 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,925 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,936 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:46,957 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,957 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:46,989 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:36:46,994 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,012 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,013 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,032 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,079 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,079 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,100 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:36:47,101 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,118 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,118 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,147 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,159 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,159 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,165 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,172 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,172 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,175 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,199 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,199 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,224 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,249 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,249 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,272 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,290 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:36:47,292 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,292 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,313 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,322 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,322 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,345 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,364 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,365 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,381 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,391 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:36:47,420 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,420 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,441 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,463 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,463 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,481 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,493 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:36:47,520 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,532 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,553 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,590 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,590 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,592 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:36:47,621 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,640 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,640 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,671 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,692 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,692 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,692 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:36:47,713 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,732 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,732 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,758 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,778 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,778 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,793 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:36:47,806 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,826 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,831 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,866 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,893 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:36:47,897 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,897 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,915 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,945 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,945 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,969 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:47,981 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,981 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:47,993 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:36:48,000 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:48,020 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,020 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,033 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:48,046 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,049 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,062 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:48,066 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,066 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,070 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:48,079 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,079 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,095 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:36:48,105 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:48,118 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,118 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,148 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:48,169 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,181 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,198 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:48,217 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,230 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,252 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:48,286 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,286 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,309 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:48,346 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,346 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,381 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:48,395 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,406 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,424 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:48,455 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,455 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,472 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:48,492 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,493 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,515 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:48,551 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,551 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,569 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:48,597 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,597 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,617 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:48,632 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,632 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,644 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:48,669 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,669 ERROR [sql-estimator] SQL logic error
+2020-04-17 17:36:48,685 ERROR [sql-controller] SQL logic error
+2020-04-17 17:36:48,702 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+    ======= Backtrace: =========
+    [1] ./testASV(+0x21160) [0x55f37afb0160] 
+    [2] ./testASV(+0x21341) [0x55f37afb0341] 
+    [3]  0x3ef20) [0x7fdd86288f20]:_64-linux-gnu/libc.so.6(+0x3ef20) [0x7fdd86288f20]
+    [4]  0x8d2b) [0x7fdd88b4ed2b]:_64-linux-gnu/libpthread.so.0(+0x8d2b) [0x7fdd88b4ed2b]
+    [5]  0x13) [0x7fdd86cae933]:_64-linux-gnu/libstdc++.so.6(_ZNSt6thread4joinEv+0x13) [0x7fdd86cae933]
+    [6] ./testASV(+0x5e3e0) [0x55f37afed3e0] 
+    [7] ./testASV(+0x53a84) [0x55f37afe2a84] 
+    [8]  0xe7) [0x7fdd8626bb97]:_64-linux-gnu/libc.so.6(__libc_start_main+0xe7) [0x7fdd8626bb97]
+    [9] ./testASV(+0xf11a) [0x55f37af9e11a] 
+
+2020-04-17 17:36:48,702 WARNING [default] Aborting application. Reason: Fatal log at [/home/skloe/Documents/毕业要紧/MultiVesselControl/common/logging/src/easylogging++.cc:3255]
+2020-04-17 17:46:50,647 INFO [default] The program has started!
+2020-04-17 17:46:50,763 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:46:50,862 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:46:50,953 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:46:51,053 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:46:51,154 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:46:51,263 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:46:51,356 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:46:51,556 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:46:51,665 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:46:51,757 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:46:51,859 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:46:51,965 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:46:52,060 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:46:52,160 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:46:52,260 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:46:52,360 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 17:47:23,117 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+    ======= Backtrace: =========
+    [1] ./testASV(+0x21160) [0x560c1f50b160] 
+    [2] ./testASV(+0x21341) [0x560c1f50b341] 
+    [3]  0x3ef20) [0x7f4a2622af20]:_64-linux-gnu/libc.so.6(+0x3ef20) [0x7f4a2622af20]
+    [4]  0x8d2b) [0x7f4a28af0d2b]:_64-linux-gnu/libpthread.so.0(+0x8d2b) [0x7f4a28af0d2b]
+    [5]  0x13) [0x7f4a26c50933]:_64-linux-gnu/libstdc++.so.6(_ZNSt6thread4joinEv+0x13) [0x7f4a26c50933]
+    [6] ./testASV(+0x5e382) [0x560c1f548382] 
+    [7] ./testASV(+0x53a84) [0x560c1f53da84] 
+    [8]  0xe7) [0x7f4a2620db97]:_64-linux-gnu/libc.so.6(__libc_start_main+0xe7) [0x7f4a2620db97]
+    [9] ./testASV(+0xf11a) [0x560c1f4f911a] 
+
+2020-04-17 17:47:23,118 WARNING [default] Aborting application. Reason: Fatal log at [/home/skloe/Documents/毕业要紧/MultiVesselControl/common/logging/src/easylogging++.cc:3255]
+2020-04-17 21:26:36,940 INFO [default] The program has started!
+2020-04-17 21:26:36,953 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:36,956 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:36,960 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:36,960 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:36,963 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:36,966 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:36,966 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:36,969 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:36,972 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:36,973 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:36,976 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:36,980 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:36,980 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:36,983 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:36,986 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:36,986 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:36,989 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:36,992 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:36,993 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:36,996 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:36,999 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:36,999 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,002 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,006 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,006 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,011 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,014 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,014 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,016 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,021 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,021 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,024 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,027 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,027 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,031 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,033 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,034 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,036 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,039 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,039 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,042 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,045 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,045 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,049 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,051 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,051 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,055 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,060 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,060 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,060 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 21:26:37,064 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,067 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,067 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,071 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,074 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,074 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,077 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,081 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,081 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,084 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,088 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,088 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,092 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,095 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,095 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,098 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,101 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,101 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,105 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,108 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,108 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,112 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,115 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,115 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,118 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,122 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,122 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,125 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,128 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,128 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,131 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,134 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,134 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,137 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,142 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,142 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,145 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,148 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,148 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,151 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,154 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,154 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,156 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 21:26:37,158 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,162 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,163 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,165 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,168 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,168 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,172 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,175 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,175 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,178 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,180 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,180 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,184 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,186 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,186 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,191 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,194 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,194 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,196 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,200 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,200 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,203 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,206 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,206 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,210 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,212 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,212 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,215 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,219 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,219 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,221 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,224 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,224 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,227 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,230 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,231 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,233 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,237 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,237 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,241 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,243 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,243 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,250 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,254 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,254 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,256 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 21:26:37,257 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,260 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,260 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,264 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,266 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,267 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,270 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,275 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,275 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,278 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,280 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,280 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,283 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,286 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,286 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,289 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,293 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,293 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,295 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,299 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,300 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,304 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,308 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,308 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,311 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,315 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,315 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,318 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,321 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,321 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,324 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,327 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,327 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,332 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,335 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,335 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,340 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,343 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,343 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,346 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,351 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,351 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,354 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,357 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,357 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,357 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 21:26:37,362 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,365 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,366 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,369 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,373 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,373 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,376 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,380 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,380 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,383 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,386 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,386 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,389 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,393 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,393 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,396 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,399 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,399 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,403 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,406 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,407 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,410 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,413 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,414 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,416 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,419 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,419 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,423 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,426 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,426 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,428 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,432 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,432 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,435 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,439 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,440 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,444 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,447 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,447 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,450 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,453 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,453 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,456 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,459 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 21:26:37,459 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,459 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,463 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,466 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,466 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,470 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,474 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,474 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,478 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,480 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,480 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,485 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,488 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,488 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,492 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,497 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,497 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,500 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,504 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,504 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,508 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,511 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,511 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,513 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,516 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,516 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,521 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,524 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,524 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,528 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,531 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,531 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,534 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,538 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,538 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,541 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,543 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,543 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,547 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,550 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,550 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,553 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,557 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,557 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,559 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 21:26:37,560 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,562 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,562 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,566 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,570 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,570 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,573 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,576 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,576 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,580 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,583 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,583 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,586 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,590 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,590 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,593 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,596 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,596 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,600 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,604 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,604 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,607 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,611 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,611 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,614 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,617 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,617 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,620 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,623 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,623 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,626 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,630 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,630 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,633 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,636 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,636 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,640 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,643 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,643 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,646 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,650 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,650 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,652 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,656 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,656 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,659 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 21:26:37,660 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,663 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,663 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,666 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,670 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,671 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,674 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,676 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,676 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,680 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,683 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,683 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,686 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,691 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,691 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,694 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,697 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,697 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,700 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,703 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,703 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,706 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,711 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,711 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,713 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,716 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,716 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,720 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,723 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,723 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,726 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,730 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,730 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,732 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,735 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,735 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,738 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,741 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,741 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,744 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,747 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,747 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,752 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,755 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,755 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,758 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,761 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,761 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,764 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,767 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,767 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,773 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,776 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,776 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,779 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,782 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,782 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,784 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,788 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,788 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,791 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,794 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,794 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,797 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,800 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,800 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,802 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,808 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,808 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,811 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,814 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,814 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,817 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,820 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,820 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,824 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,826 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,826 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,830 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,833 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,833 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,835 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,841 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,841 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,844 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,848 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,848 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,851 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,854 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,854 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,857 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,860 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,860 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,861 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 21:26:37,864 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,868 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,868 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,872 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,875 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,875 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,879 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,882 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,882 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,884 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,888 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,888 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,891 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,894 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,894 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,898 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,901 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,901 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,903 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,906 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,906 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,911 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,914 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,914 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,916 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,921 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,921 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,924 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,928 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,928 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,930 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,933 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,933 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,936 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,939 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,939 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,941 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,944 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,944 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,948 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,951 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,951 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,954 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,958 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,958 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,961 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,962 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 21:26:37,964 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,964 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,968 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,971 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,971 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,973 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,976 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,976 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,981 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,984 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,984 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,987 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,991 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,991 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,993 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:37,996 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:37,996 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,000 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,003 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,003 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,005 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,009 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,009 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,013 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,016 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,016 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,019 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,023 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,023 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,026 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,029 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,029 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,032 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,035 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,035 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,039 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,042 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,042 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,046 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,050 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,050 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,053 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,057 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,057 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,060 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,062 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 21:26:38,063 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,063 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,066 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,070 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,070 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,072 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,075 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,075 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,078 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,081 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,081 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,084 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,088 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,088 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,092 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,095 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,095 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,098 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,101 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,101 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,104 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,107 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,107 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,110 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,113 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,113 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,115 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,120 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,120 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,124 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,127 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,127 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,129 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,133 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,133 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,136 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,138 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,138 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,142 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,144 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,144 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,147 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,153 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,153 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,157 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,160 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,160 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,162 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 21:26:38,163 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,166 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,167 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,169 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,172 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,172 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,176 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,179 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,179 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,183 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,186 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,186 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,190 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,194 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,194 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,197 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,199 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,200 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,203 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,206 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,206 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,209 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,213 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,213 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,217 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,220 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,220 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,223 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,226 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,226 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,229 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,231 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,231 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,235 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,238 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,238 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,241 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,245 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,245 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,248 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,250 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,250 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,255 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,258 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,258 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,261 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,263 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 21:26:38,265 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,265 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,269 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,273 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,273 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,276 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,278 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,278 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,282 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,285 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,285 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,287 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,291 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,291 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,295 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,298 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,298 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,300 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,304 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,304 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,308 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,310 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,310 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,314 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,317 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,317 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,320 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,325 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,325 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,328 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,331 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,331 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,336 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,339 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,339 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,342 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,345 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,345 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,347 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,350 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,350 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,354 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,357 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,357 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,360 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,363 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 21:26:38,364 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,364 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,367 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,370 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,370 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,374 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,377 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,377 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,380 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,383 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,383 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,387 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,390 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,390 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,394 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,398 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,398 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,401 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,404 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,404 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,408 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,411 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,411 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,414 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,418 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,418 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,421 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,423 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,423 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,426 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,430 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,431 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,433 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,438 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,438 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,441 ERROR [sql-controller] SQL logic error
+2020-04-17 21:26:38,443 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,443 ERROR [sql-estimator] SQL logic error
+2020-04-17 21:26:38,447 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+    ======= Backtrace: =========
+    [1] ./testASV(+0x211a0) [0x5618750bc1a0] 
+    [2] ./testASV(+0x21381) [0x5618750bc381] 
+    [3]  0x3ef20) [0x7f8bef620f20]:_64-linux-gnu/libc.so.6(+0x3ef20) [0x7f8bef620f20]
+    [4]  0x8d2b) [0x7f8bf1ee6d2b]:_64-linux-gnu/libpthread.so.0(+0x8d2b) [0x7f8bf1ee6d2b]
+    [5]  0x13) [0x7f8bf0046933]:_64-linux-gnu/libstdc++.so.6(_ZNSt6thread4joinEv+0x13) [0x7f8bf0046933]
+    [6] ./testASV(+0x5ed7c) [0x5618750f9d7c] 
+    [7] ./testASV(+0x53ac4) [0x5618750eeac4] 
+    [8]  0xe7) [0x7f8bef603b97]:_64-linux-gnu/libc.so.6(__libc_start_main+0xe7) [0x7f8bef603b97]
+    [9] ./testASV(+0xf15a) [0x5618750aa15a] 
+
+2020-04-17 21:26:38,447 WARNING [default] Aborting application. Reason: Fatal log at [/home/skloe/Documents/毕业要紧/MultiVesselControl/common/logging/src/easylogging++.cc:3255]
+2020-04-17 23:20:54,008 INFO [default] The program has started!
+2020-04-17 23:20:54,123 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 23:20:54,220 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 23:20:54,319 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 23:20:54,420 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 23:20:54,522 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 23:20:54,623 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 23:20:54,724 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 23:20:54,925 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 23:20:55,026 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 23:20:55,126 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 23:20:55,226 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 23:20:55,328 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 23:20:55,428 ERROR [mosek] The status of the solution could not be determined.
+2020-04-17 23:20:55,459 FATAL [default] CRASH HANDLED; Application has crashed due to [SIGINT] signal
+    ======= Backtrace: =========
+    [1] ./testASV(+0x211a0) [0x557b1c04a1a0] 
+    [2] ./testASV(+0x21381) [0x557b1c04a381] 
+    [3]  0x3ef20) [0x7fa709174f20]:_64-linux-gnu/libc.so.6(+0x3ef20) [0x7fa709174f20]
+    [4]  0x8d2b) [0x7fa70ba3ad2b]:_64-linux-gnu/libpthread.so.0(+0x8d2b) [0x7fa70ba3ad2b]
+    [5]  0x13) [0x7fa709b9a933]:_64-linux-gnu/libstdc++.so.6(_ZNSt6thread4joinEv+0x13) [0x7fa709b9a933]
+    [6] ./testASV(+0x5f1c0) [0x557b1c0881c0] 
+    [7] ./testASV(+0x53ac4) [0x557b1c07cac4] 
+    [8]  0xe7) [0x7fa709157b97]:_64-linux-gnu/libc.so.6(__libc_start_main+0xe7) [0x7fa709157b97]
+    [9] ./testASV(+0xf15a) [0x557b1c03815a] 
+
+2020-04-17 23:20:55,459 WARNING [default] Aborting application. Reason: Fatal log at [/home/skloe/Documents/毕业要紧/MultiVesselControl/common/logging/src/easylogging++.cc:3255]

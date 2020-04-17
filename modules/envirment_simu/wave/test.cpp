@@ -6,7 +6,7 @@
 **	Author:		Fu Zhenqiu
 **  Date:		2020-03-12
 ******************************************************************/
-#include "mywave.h"
+#include "wave.h"
 
 int main() {
   // save_spec();

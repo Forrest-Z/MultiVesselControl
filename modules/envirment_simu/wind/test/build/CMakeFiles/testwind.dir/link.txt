@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -Wall -Wextra -g -ggdb -pedantic   CMakeFiles/testwind.dir/testwind.cc.o  -o testwind -lboost_system -lboost_filesystem -lboost_iostreams -lutil 

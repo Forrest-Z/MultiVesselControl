@@ -255,6 +255,9 @@ CMakeFiles/testASV.dir/run.cc.o: ../../../../../modules/controller/include/contr
 CMakeFiles/testASV.dir/run.cc.o: ../../../../../modules/controller/include/controllerdata.h
 CMakeFiles/testASV.dir/run.cc.o: ../../../../../modules/controller/include/thrustallocation.h
 CMakeFiles/testASV.dir/run.cc.o: ../../../../../modules/controller/include/trajectorytracking.h
+CMakeFiles/testASV.dir/run.cc.o: ../../../../../modules/envirment_simu/current/include/current.h
+CMakeFiles/testASV.dir/run.cc.o: ../../../../../modules/envirment_simu/wave/wave.h
+CMakeFiles/testASV.dir/run.cc.o: ../../../../../modules/envirment_simu/wind/include/windcompensation.h
 CMakeFiles/testASV.dir/run.cc.o: ../../../../../modules/estimator/include/estimator.h
 CMakeFiles/testASV.dir/run.cc.o: ../../../../../modules/estimator/include/estimatordata.h
 CMakeFiles/testASV.dir/run.cc.o: ../../../../../modules/estimator/include/kalmanfilter.h
@@ -267,6 +270,7 @@ CMakeFiles/testASV.dir/run.cc.o: ../../../../../modules/simulator/include/simula
 CMakeFiles/testASV.dir/run.cc.o: ../../../../../modules/simulator/include/simulatordata.h
 CMakeFiles/testASV.dir/run.cc.o: /home/skloe/Documents/毕业要紧/MultiVesselControl/examples/simu/utest/include/threadloop.h
 CMakeFiles/testASV.dir/run.cc.o: ../run.cc
+CMakeFiles/testASV.dir/run.cc.o: /home/skloe/Documents/毕业要紧/MultiVesselControl/modules/estimator/include/lowpass.h
 CMakeFiles/testASV.dir/run.cc.o: /opt/mosek/9.0/tools/platform/linux64x86/h/mosek.h
 CMakeFiles/testASV.dir/run.cc.o: /usr/local/include/sqlite_modern_cpp.h
 CMakeFiles/testASV.dir/run.cc.o: /usr/local/include/sqlite_modern_cpp/errors.h

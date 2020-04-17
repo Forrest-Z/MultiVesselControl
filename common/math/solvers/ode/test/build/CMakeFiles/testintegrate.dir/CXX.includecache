@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/skloe/Documents/毕业要紧/ASV-master/common/math/solvers/ode/include/odesolver.h
+boost/config.hpp
+-
+boost/numeric/odeint/algebra/vector_space_algebra.hpp
+-
+boost/numeric/odeint/external/eigen/eigen_resize.hpp
+-
+boost/numeric/odeint/integrate/integrate.hpp
+-
+boost/numeric/odeint/stepper/runge_kutta4.hpp
+-
+
+/home/skloe/Documents/毕业要紧/ASV-master/common/math/solvers/ode/test/integrate.cc
+../include/odesolver.h
+/home/skloe/Documents/毕业要紧/ASV-master/common/math/solvers/ode/include/odesolver.h
+

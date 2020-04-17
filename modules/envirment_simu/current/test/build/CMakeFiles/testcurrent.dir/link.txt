@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -Wall -Wextra -g -ggdb -pedantic   CMakeFiles/testcurrent.dir/testcurrent.cc.o  -o testcurrent -lboost_system -lboost_filesystem -lboost_iostreams -lutil 
