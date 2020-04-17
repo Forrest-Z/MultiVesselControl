@@ -1,0 +1,6 @@
+/home/skloe/Documents/毕业要紧/MultiVesselControl/modules/controller/test/build/CMakeFiles/rebuild_cache.dir
+/home/skloe/Documents/毕业要紧/MultiVesselControl/modules/controller/test/build/CMakeFiles/testlos.dir
+/home/skloe/Documents/毕业要紧/MultiVesselControl/modules/controller/test/build/CMakeFiles/testcontroller.dir
+/home/skloe/Documents/毕业要紧/MultiVesselControl/modules/controller/test/build/CMakeFiles/testmosek.dir
+/home/skloe/Documents/毕业要紧/MultiVesselControl/modules/controller/test/build/CMakeFiles/edit_cache.dir
+/home/skloe/Documents/毕业要紧/MultiVesselControl/modules/controller/test/build/CMakeFiles/testthrust.dir

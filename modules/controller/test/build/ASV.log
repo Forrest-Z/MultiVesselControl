@@ -1,0 +1,118 @@
+2020-04-10 23:28:18,481 INFO [default] The program has started!
+2020-04-10 23:28:18,503 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-10 23:28:18,504 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-10 23:28:18,505 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-10 23:28:18,505 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-10 23:28:18,506 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-10 23:28:18,507 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-10 23:28:18,508 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-10 23:28:18,509 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-10 23:28:18,510 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-10 23:28:18,511 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-10 23:28:18,513 INFO [default] Shutting down.
+2020-04-10 23:28:46,920 INFO [default] The program has started!
+2020-04-10 23:28:48,038 INFO [default] Shutting down.
+2020-04-11 00:01:42,566 INFO [default] The program has started!
+2020-04-11 00:01:42,606 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:01:42,608 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:01:42,608 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:01:42,609 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:01:42,610 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:01:42,611 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:01:42,611 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:01:42,611 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:01:42,611 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:01:42,611 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:01:42,612 INFO [default] Shutting down.
+2020-04-11 00:03:07,048 INFO [default] The program has started!
+2020-04-11 00:03:07,761 INFO [default] Shutting down.
+2020-04-11 00:03:23,385 INFO [default] The program has started!
+2020-04-11 00:03:23,392 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:03:23,396 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:03:23,398 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:03:23,398 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:03:23,399 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:03:23,400 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:03:23,400 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:03:23,401 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:03:23,401 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:03:23,401 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:03:23,401 INFO [default] Shutting down.
+2020-04-11 00:58:52,751 INFO [default] The program has started!
+2020-04-11 00:58:52,791 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:58:52,791 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:58:52,792 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:58:52,792 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:58:52,792 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:58:52,793 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:58:52,793 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:58:52,794 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:58:52,794 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:58:52,795 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 00:58:52,796 INFO [default] Shutting down.
+2020-04-11 01:04:10,643 INFO [default] The program has started!
+2020-04-11 01:04:10,649 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:04:10,649 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:04:10,649 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:04:10,650 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:04:10,650 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:04:10,650 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:04:10,650 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:04:10,650 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:04:10,651 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:04:10,651 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:04:10,651 INFO [default] Shutting down.
+2020-04-11 01:09:52,176 INFO [default] The program has started!
+2020-04-11 01:09:52,182 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:09:52,182 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:09:52,183 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:09:52,183 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:09:52,183 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:09:52,183 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:09:52,184 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:09:52,184 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:09:52,184 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:09:52,184 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:09:52,185 INFO [default] Shutting down.
+2020-04-11 01:13:44,401 INFO [default] The program has started!
+2020-04-11 01:13:44,413 INFO [default] Shutting down.
+2020-04-11 01:14:44,694 INFO [default] The program has started!
+2020-04-11 01:14:45,514 INFO [default] Shutting down.
+2020-04-11 01:15:44,447 INFO [default] The program has started!
+2020-04-11 01:15:44,454 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:15:44,454 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:15:44,454 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:15:44,454 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:15:44,455 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:15:44,455 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:15:44,455 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:15:44,455 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:15:44,455 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:15:44,455 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:15:44,456 INFO [default] Shutting down.
+2020-04-11 01:16:38,615 INFO [default] The program has started!
+2020-04-11 01:16:39,384 INFO [default] Shutting down.
+2020-04-11 01:16:55,253 INFO [default] The program has started!
+2020-04-11 01:16:55,260 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:16:55,261 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:16:55,261 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:16:55,261 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:16:55,262 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:16:55,262 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:16:55,262 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:16:55,262 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:16:55,262 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:16:55,262 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:16:55,263 INFO [default] Shutting down.
+2020-04-11 01:22:13,220 INFO [default] The program has started!
+2020-04-11 01:22:13,227 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:22:13,227 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:22:13,227 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:22:13,228 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:22:13,228 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:22:13,228 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:22:13,228 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:22:13,228 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:22:13,229 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:22:13,229 ERROR [mosek] Primal or dual infeasibility certificate found.
+2020-04-11 01:22:13,229 INFO [default] Shutting down.
