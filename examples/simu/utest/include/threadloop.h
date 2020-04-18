@@ -32,11 +32,11 @@ class threadloop {
  public:
   threadloop()
       : _currentcompensation(currentloadRTdata),
-        _mywave(5, 9),
+        _mywave(0.3, 9),  //有意波高，周期
         _windcompensation(windloadRTdata),
-        _jsonparse(parameter_json_path) {
-    std::cout << "后造函数" << std::endl;
-  };
+        _jsonparse(parameter_json_path){
+
+        };
   ~threadloop(){};
 
   void mainloop() {
@@ -108,6 +108,8 @@ class threadloop {
   Eigen::Vector3d windloadRTdata = Eigen::Vector3d::Zero();
   Eigen::Vector3d waveloadRTdata = Eigen::Vector3d::Zero();
   Eigen::Vector3d currentloadRTdata = Eigen::Vector3d::Zero();
+  Eigen::Vector3d initialposition = Eigen::Vector3d::Zero();
+  Eigen::Vector3d targetposition = Eigen::Vector3d::Zero();
   /********************* Modules  *********************/
   // json
   common::jsonparse<num_thruster, dim_controlspace> _jsonparse;
@@ -118,16 +120,20 @@ class threadloop {
   void sealoadloop() {
     while (1) {
       //风力
-      windloadRTdata = _windcompensation
-                           .computewindload(2, 1.57, estimator_RTdata.State(3),
-                                            estimator_RTdata.State(4),
-                                            estimator_RTdata.State(2))
-                           .getsealoadRTdata();  //风速、风向、船速u、v、船向
-      std::cout << "????????????????????" << windloadRTdata(0) << "  "
-                << windloadRTdata(1) << "  " << windloadRTdata(2) << std::endl;
+      windloadRTdata =
+          _windcompensation
+              .computewindload(2, M_PI * 3 / 4, estimator_RTdata.State(3),
+                               estimator_RTdata.State(4),
+                               estimator_RTdata.State(2))
+              .getsealoadRTdata();  //风速、风向、船速u、v、船向
+      // std::cout << "????????????????????" << windloadRTdata(0) << "  "
+      //           << windloadRTdata(1) << "  " << windloadRTdata(2) <<
+      //           std::endl;
 
       //浪
-      _mywave.cal_wave_force(1.57, 100);  //遭遇频率和船长
+      _mywave.cal_wave_force(
+          M_PI / 2, 3.2, estimator_RTdata.State(3), estimator_RTdata.State(4),
+          estimator_RTdata.State(2));  // wave direction 和船长\船速u、v、船向
       waveloadRTdata(0) = _mywave.get_wave_force().wave_fx;
       waveloadRTdata(1) = _mywave.get_wave_force().wave_fy;
       waveloadRTdata(2) = _mywave.get_wave_force().wave_fz;
@@ -135,7 +141,7 @@ class threadloop {
       //流
       currentloadRTdata =
           _currentcompensation
-              .computecurrentload(2, 1.57, estimator_RTdata.State(3),
+              .computecurrentload(0.3, M_PI * 3 / 4, estimator_RTdata.State(3),
                                   estimator_RTdata.State(4),
                                   estimator_RTdata.State(2))
               .getcurrentloadRTdata();  //流速、流向、船速u、v、船向
@@ -143,7 +149,7 @@ class threadloop {
   }
 
   void sqlloop() {
-    std::cout << "db创建ing" << std::endl;
+    // std::cout << "db创建ing" << std::endl;
     // std::string sqlpath = _jsonparse.getsqlitepath();
     // std::string db_config_path = _jsonparse.getdbconfigpath();
     std::string sqlpath =
@@ -169,7 +175,7 @@ class threadloop {
     //_planner_db.create_table();
     _controller_db.create_table();
     //_perception_db.create_table();
-    std::cout << "db创建完成" << std::endl;
+    // std::cout << "db创建完成" << std::endl;
     while (1) {
       switch (testmode) {
         case common::TESTMODE::SIMULATION_DP: {
@@ -271,49 +277,76 @@ class threadloop {
         long int sample_time =
             static_cast<long int>(1000 * _estimator.getsampletime());
 
-        // State monitor toggle
-        // StateMonitor::check_estimator();
+        initialposition = _jsonparse.getinitialposition();
 
-        estimator_RTdata = _estimator.setvalue(3, 3, 0, 0, 0, 90, 0, 0, 0)
-                               .getEstimatorRTData();
+        //设定起始gps状态信息，(double gps_x, double gps_y, double gps_z, double
+        // gps_roll,double gps_pitch, double gps_heading, double gps_Ve,double
+        // gps_Vn, double gps_roti)            y  x           theta
+        estimator_RTdata = _estimator
+                               .setvalue(initialposition(1), initialposition(0),
+                                         0, 0, 0, initialposition(2), 0, 0, 0)
+                               .getEstimatorRTData();  // x,y 好像相反
+        //设置初始位置x,y,heading
+        // estimator_RTdata = _estimator.setvalue(5, 4,
+        // 90).getEstimatorRTData();
+        std::cout << "diyibu!!!!!! " << estimator_RTdata.State << std::endl;
         _simulator.setX(estimator_RTdata.State);
 
         // real time calculation in estimator
         while (1) {
           outerloop_elapsed_time = timer_estimator.timeelapsed();
+          std::cout << "*****************************************************"
+                    << std::endl;
+          std::cout << "waveloadRTdata  : " << std::endl
+                    << waveloadRTdata << std::endl;
+          std::cout << estimator_RTdata.State << std::endl;
+          // std::cout << "state x: " << std::endl
+          //           << estimator_RTdata.State(0) << "state y: " <<
+          //           std::endl
+          //           << estimator_RTdata.State(1) << std::endl;
 
-          auto x = _simulator
-                       .simulator_onestep(tracker_RTdata.setpoint(2),
-                                          controller_RTdata.tau)
-                       .getX();
-          // std::cout << "模拟器进入DP模式1" << std::endl;
-          _estimator
-              .updateestimatedforce(controller_RTdata.tau,
-                                    Eigen::Vector3d::Zero())
-              .estimatestate(x, tracker_RTdata.setpoint(2));
-          // std::cout << "模拟器进入DP模式2" << std::endl;
-          estimator_RTdata = _estimator
-                                 .estimateerror(tracker_RTdata.setpoint,
-                                                tracker_RTdata.v_setpoint)
-                                 .getEstimatorRTData();
-          // std::cout
-          //     << "*********************************************************"
-          //     << std::endl;
-
-          // std::cout << "state: " << std::endl
-          //           << estimator_RTdata.State << std::endl;
-          // std::cout << "p_error: " << std::endl
-          //           << estimator_RTdata.p_error << std::endl;
+          std::cout << "p_error: " << std::endl
+                    << estimator_RTdata.p_error << std::endl;
           // std::cout << "v_error: " << std::endl
           //           << estimator_RTdata.v_error << std::endl;
           // std::cout << "controller_RTdata.tau: " << std::endl
           //           << controller_RTdata.tau << std::endl;
           // std::cout << "controller_RTdata.BalphaU: " << std::endl
           //           << controller_RTdata.BalphaU << std::endl;
-          // std::cout << "tracker_RTdata.setpoint: " << std::endl
+          std::cout << "tracker_RTdata.setpoint: " << tracker_RTdata.setpoint
+                    << std::endl;
           //           << tracker_RTdata.v_setpoint << std::endl;
           // std::cout << "tracker_RTdata.v_setpoint: " << std::endl
           //           << tracker_RTdata.setpoint << std::endl;
+
+          //闭环无环境力模拟××××××××××××××××××××××××××××××××通过
+          // auto x = _simulator
+          //              .simulator_onestep(tracker_RTdata.setpoint(2),
+          //                                 controller_RTdata.tau)
+          //              .getX();
+          //开环无环境力模拟×××××××××××××××××××××××××××××××通过
+          // auto x = _simulator
+          //              .simulator_onestep(tracker_RTdata.setpoint(2),
+          //                                 Eigen::Vector3d::Zero())
+          //              .getX();
+          //开环有环境力模拟×××××××××××××风已经通过、流差不多、
+          auto x =
+              _simulator
+                  .simulator_onestep(tracker_RTdata.setpoint(2),
+                                     Eigen::Vector3d::Zero(), waveloadRTdata)
+                  .getX();
+          //闭环有环境力模拟
+
+          // std::cout << "模拟器进入DP模式1" << std::endl;
+          _estimator
+              .updateestimatedforce(controller_RTdata.tau,
+                                    Eigen::Vector3d::Zero())
+              .estimatestate(x, tracker_RTdata.setpoint(2));  //风加推力;
+          // std::cout << "模拟器进入DP模式2" << std::endl;
+          estimator_RTdata = _estimator
+                                 .estimateerror(tracker_RTdata.setpoint,
+                                                tracker_RTdata.v_setpoint)
+                                 .getEstimatorRTData();
 
           innerloop_elapsed_time = timer_estimator.timeelapsed();
           std::this_thread::sleep_for(
@@ -366,7 +399,13 @@ class threadloop {
         case common::TESTMODE::SIMULATION_DP: {
           // std::cout << "控制进入DP模式" << std::endl;
           _controller.setcontrolmode(control::CONTROLMODE::DYNAMICPOSITION);
-          tracker_RTdata.setpoint = Eigen::Vector3d::Zero();
+          targetposition = _jsonparse.getsetpoint();
+          tracker_RTdata.setpoint = targetposition;
+
+          // tracker_RTdata.setpoint(0) = targetposition(0);
+          // tracker_RTdata.setpoint(1) = targetposition(1);
+          // tracker_RTdata.setpoint(1) = targetposition(2);
+
           tracker_RTdata.v_setpoint = Eigen::Vector3d::Zero();
 
           _controller.set_thruster_feedback(
@@ -392,13 +431,13 @@ class threadloop {
       }  // end switch
 
       // controller
-      controller_RTdata = _controller
-                              .controlleronestep(Eigen::Vector3d::Zero(),
-                                                 estimator_RTdata.p_error,
-                                                 estimator_RTdata.v_error,
-                                                 Eigen::Vector3d::Zero(),
-                                                 tracker_RTdata.v_setpoint)
-                              .getcontrollerRTdata();
+      controller_RTdata =
+          _controller
+              .controlleronestep(
+                  Eigen::Vector3d::Zero(), estimator_RTdata.p_error,
+                  estimator_RTdata.v_error, Eigen::Vector3d::Zero(),
+                  tracker_RTdata.v_setpoint)
+              .getcontrollerRTdata();  //风，error,deoor,command,_desired_speed
 
       // std::cout << elapsed_time << std::endl;
       innerloop_elapsed_time = timer_controler.timeelapsed();
