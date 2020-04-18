@@ -38,8 +38,10 @@ class mywave {
         };
   ~mywave(){};
   wave_force_RTdata _wave_force;
-  void cal_wave_force(double _enFre, double _ship_length) {
-    enFre = _enFre;  //遭遇频率,遭遇角度
+  void cal_wave_force(double wave_orientation, double _ship_length,
+                      double vessel_speed_u, double vessel_speed_v,
+                      double vessel_orientation) {
+    enFre = vessel_orientation - wave_orientation;  //遭遇角度
     L = _ship_length;
     delta_omega = (max_omega - min_omega) / N_omega;
     for (double omega = min_omega; omega < max_omega; omega += delta_omega) {
@@ -47,22 +49,26 @@ class mywave {
       //
       A_i = sqrt(2 * delta_omega * ITTC_Spec(Hs, T_0, omega));
       //波幅
-      amp_wave += A_i * sin(omega * time_count + psi);
+      // amp_wave += A_i * sin(omega * time_count + psi);
+      amp_wave += A_i;
       //波幅平方
       amp_wave_2 = amp_wave * amp_wave;
       //波长
       lambda = 9.81 * 6.28 / (omega * omega);
-      Cx += 0.05 - 0.2 * (lambda / L) + 0.75 * pow((lambda / L), 2) -
-            0.51 * pow((lambda / L), 3);
-      Cy += 0.46 + 6.83 * (lambda / L) - 15.65 * pow((lambda / L), 2) +
-            8.44 * pow((lambda / L), 3);
-      Cz += -0.11 + 0.68 * (lambda / L) - 0.79 * pow((lambda / L), 2) +
-            0.21 * pow((lambda / L), 3);  //波浪力
+      Cx = 0.05 - 0.2 * (lambda / L) + 0.75 * pow((lambda / L), 2) -
+           0.51 * pow((lambda / L), 3);
+      Cy = 0.46 + 6.83 * (lambda / L) - 15.65 * pow((lambda / L), 2) +
+           8.44 * pow((lambda / L), 3);
+      Cz = -0.11 + 0.68 * (lambda / L) - 0.79 * pow((lambda / L), 2) +
+           0.21 * pow((lambda / L), 3);  //波浪力
+      double tmp_x += Cx * A_i * A_i;
+      double tmp_y += Cy * A_i * A_i;
+      double tmp_z += Cz * A_i * A_i;
     }
     // std::cout << "*****************************" << std::endl;
-    FX = 0.5 * rho * L * amp_wave_2 * Cx * cos(enFre);
-    FY = 0.5 * rho * L * amp_wave_2 * Cy * sin(enFre);
-    FZ = 0.5 * rho * L * L * amp_wave_2 * Cz * sin(enFre);
+    FX = 0.5 * rho * L * amp_wave_2 * tmp_x * cos(enFre);
+    FY = 0.5 * rho * L * amp_wave_2 * tmp_y * sin(enFre);
+    FZ = 0.5 * rho * L * L * amp_wave_2 * tmp_z * sin(enFre);
     _wave_force.wave_fx = FX;
     _wave_force.wave_fy = FY;
     _wave_force.wave_fz = FZ;

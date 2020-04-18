@@ -57,6 +57,9 @@ class jsonparse {
   auto getpiddata() const noexcept { return pidcontrollerdata_input; }
   auto getestimatordata() const noexcept { return estimatordata_input; }
   auto getsimulatordata() const noexcept { return simulator_sample_time; }
+  auto getinitialposition() const noexcept { return _initialposition; }
+  auto getsetpoint() const noexcept { return _targetposition; }
+
   auto getlatticedata() const noexcept { return latticedata_input; }
   auto getcollisiondata() const noexcept { return collisiondata_input; }
   auto getSpokeProcessdata() const noexcept { return SpokeProcess_data; }
@@ -208,28 +211,45 @@ class jsonparse {
       1     // K_delta_yaw;
   };
 
+  Eigen::Vector3d _initialposition = Eigen::Vector3d::Zero();
+  Eigen::Vector3d _targetposition = Eigen::Vector3d::Zero();
+  // int wind_simu_switch = 0;
+  // int wave_simu_switch = 0;
+  // int current_simu_switch = 0;
+
   void readjson() {
-    std::cout << "函数readjson1" << std::endl;
+    // std::cout << "函数readjson1" << std::endl;
     parsejson();
-    std::cout << "函数readjson2" << std::endl;
+    // std::cout << "函数readjson2" << std::endl;
     parsevesselpropertydata();
-    std::cout << "函数readjson3" << std::endl;
+    // std::cout << "函数readjson3" << std::endl;
     parsesimulatordata();
-    std::cout << "函数readjson4" << std::endl;
+    // std::cout << "函数readjson4" << std::endl;
     parsecontrollerdata();
-    std::cout << "函数readjson5" << std::endl;
+    // std::cout << "函数readjson5" << std::endl;
     parseestimatordata();
-    std::cout << "函数readjson6" << std::endl;
+    // std::cout << "函数readjson6" << std::endl;
     parsesqlitedata();
-    std::cout << "函数readjson7" << std::endl;
+    // std::cout << "函数readjson7" << std::endl;
     paresecomcenter();
-    std::cout << "函数readjson8" << std::endl;
+    // std::cout << "函数readjson8" << std::endl;
     parsefrenetdata();
-    std::cout << "函数readjson9" << std::endl;
+    // std::cout << "函数readjson9" << std::endl;
     // parseSpokedata();
-    std::cout << "函数readjson10" << std::endl;
+    // std::cout << "函数readjson10" << std::endl;
+    parsetargetpoint_and_initpoint();
   }  // readjson
 
+  void parsetargetpoint_and_initpoint() {
+    _initialposition(0) = file["init position"]["init_x"].get<double>();
+    _initialposition(1) = file["init position"]["init_y"].get<double>();
+    _initialposition(2) = file["init position"]["init_theta"].get<double>();
+
+    _targetposition(0) = file["target position"]["target_x"].get<double>();
+    _targetposition(1) = file["target position"]["target_y"].get<double>();
+    _targetposition(2) = file["target position"]["target_theta"].get<double>();
+
+  }  // get simu setpoint and init point
   void parsejson() {
     // read a JSON file
     std::ifstream in(jsonname);
@@ -237,7 +257,7 @@ class jsonparse {
   }  // parsejson
 
   void parsecontrollerdata() {
-    std::cout << "debug 函数 parsecontrollerdata " << std::endl;
+    // std::cout << "debug 函数 parsecontrollerdata " << std::endl;
     // controller
     controllerdata_input.sample_time =
         file["controller"]["sample_time"].get<double>();
@@ -312,7 +332,7 @@ class jsonparse {
         file["controller"]["yaw"]["max_output"].get<double>();
     pidcontrollerdata_input.push_back(_pidcontrollerdata_input);
 
-    std::cout << "debug 函数 thrust allocation " << std::endl;
+    // std::cout << "debug 函数 thrust allocation " << std::endl;
 
     // thrust allocation
     // thrustallocationdata_input.Q_surge =
@@ -324,13 +344,13 @@ class jsonparse {
     // thrustallocationdata_input.Q_yaw =
     //     file["thrustallocation"]["penality"]["yaw"].get<double>();
 
-    std::cout << "debug 函数parse controller " << std::endl;
+    // std::cout << "debug 函数parse controller " << std::endl;
     // thrusters
     for (int i = 0; i != m; ++i) {
       std::string str_thruster("thruster");
       str_thruster += std::to_string(i + 1);
       std::string str_type = file[str_thruster]["type"];
-      std::cout << "debug 函数 thrusters " << std::endl;
+      // std::cout << "debug 函数 thrusters " << std::endl;
       if (str_type == "tunnel") {
         // update # of tunnels and index_thruster
         ++thrustallocationdata_input.num_tunnel;

@@ -194,7 +194,7 @@ class controller {
         break;
       case CONTROLMODE::DYNAMICPOSITION: {
         if (!comparepositionerror(_error)) {
-          std::cout << "DYNAMICPOSITION!!!!!!!!!!!!!!!!" << std::endl;
+          // std::cout << "DYNAMICPOSITION!!!!!!!!!!!!!!!!" << std::endl;
           for (int i = 0; i != n; ++i)
             _tau(i) += position_pids(0, i) * _error(i)  // proportional term
                        + position_pids(1, i) *

@@ -18,11 +18,12 @@ class current {
  public:
   current(const Eigen::Vector3d &_currentloadRTdata)
       : water_rho(1025),
-        C_L(0.7),
-        C_D(0.825),
-        C_N(0.125),
-        ATC(0.96),
-        ALS(2.16),
+        C_L(0.04),
+        C_D(0.05),
+        C_N(0.02),
+        ATC(0.2),
+        ALS(0.8),
+        T(0.2),  //吃水
         LOA(3.2),
         currentloadRTdata(_currentloadRTdata){};
   ~current(){};
@@ -61,27 +62,31 @@ class current {
   const double C_L;        // 船体阻力系数
   const double C_D;        // 升力系数
   const double C_N;        // 转矩系数
-  //
+                           //
   // C L 、 C D 、 C N 分别是船体阻力系数、升力系数以及转矩系数
   const double ATC;  // 船舶水下部分横向投影面积
   const double ALS;  // 船舶水下部分纵向投影面积
-  const double LOA;  // 船长
+  const double T;    // 吃水深度
+  const double LOA;  // 船长，其实应该垂线间长Lbp
   Eigen::Vector3d currentloadRTdata;
 
   // compute CURRENT load on vessel using relative CURRENT load speed and
   // orientation
   void computecurrentforce(double current_speed, double current_orientation,
                            double &Fx, double &Fy, double &Mz) {
-    double Cx = C_L * std::sin(current_orientation) -
-                C_D * std::cos(current_orientation);  // x方向的风力系数
-    double Cy = C_L * std::cos(current_orientation) +
-                C_D * std::sin(current_orientation);  // y方向的风力系数
-    double Cn = C_N;
+    // double Cx = C_L * std::sin(current_orientation) -
+    //             C_D * std::cos(current_orientation);  // x方向的风力系数
+    // double Cy = C_L * std::cos(current_orientation) +
+    //             C_D * std::sin(current_orientation);  // y方向的风力系数
+    // double Cn = C_N;
+    double Cx = -C_L * std::cos(current_orientation);  // x方向的风力系数
+    double Cy = C_D * std::sin(current_orientation);   // y方向的风力系数
+    double Cn = C_N * std::sin(2 * current_orientation);
 
     double temp_force = 0.5 * water_rho * std::pow(current_speed, 2);
-    Fx = temp_force * Cx * ATC;  // Fx
-    Fy = temp_force * Cy * ATC;  // Fy
-    Mz = temp_force * Cn * ALS * LOA;
+    Fx = temp_force * Cx * ATC ;  // Fx
+    Fy = temp_force * Cy * ALS ;  // Fy
+    Mz = temp_force * Cn * ALS *LOA;
 
   }    // computeCURRENTload
 };     // end CURRENT

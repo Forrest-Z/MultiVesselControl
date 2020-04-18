@@ -33,6 +33,13 @@ class estimator {
         antenna2cog(_estimatordata.antenna2cog) {}
   estimator() = delete;
   ~estimator() {}
+  // setestimatevalue
+  estimator& setvalue(double state_x, double state_y, double state_heading) {
+    EstimatorRTData.State(0) = state_x;
+    EstimatorRTData.State(1) = state_y;
+    EstimatorRTData.State(2) = state_heading;
+    return *this;
+  }
 
   // setvalue after the initialization
   estimator& setvalue(double gps_x, double gps_y, double gps_z, double gps_roll,
