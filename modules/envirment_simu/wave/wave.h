@@ -44,31 +44,49 @@ class mywave {
     enFre = vessel_orientation - wave_orientation;  //遭遇角度
     L = _ship_length;
     delta_omega = (max_omega - min_omega) / N_omega;
+    //不规则
+    // for (double omega = min_omega; omega < max_omega; omega += delta_omega) {
+    //   psi = rand() % 100 * 0.0628;  //产生0-2pi的随机数
+    //   //
+    //   A_i = sqrt(2 * delta_omega * ITTC_Spec(Hs, T_0, omega));
+    //   //波幅
+    //   // amp_wave += A_i * sin(omega * time_count + psi);
+    //   amp_wave += A_i;
+    //   //波幅平方
+    //   amp_wave_2 = amp_wave * amp_wave;
+    //   //波长
+    //   lambda = 9.81 * 6.28 / (omega * omega);
+    //   Cx = 0.05 - 0.2 * (lambda / L) + 0.75 * pow((lambda / L), 2) -
+    //        0.51 * pow((lambda / L), 3);
+    //   Cy = 0.46 + 6.83 * (lambda / L) - 15.65 * pow((lambda / L), 2) +
+    //        8.44 * pow((lambda / L), 3);
+    //   Cz = -0.11 + 0.68 * (lambda / L) - 0.79 * pow((lambda / L), 2) +
+    //        0.21 * pow((lambda / L), 3);  //波浪力
+    //   // tmp_x += Cx * A_i * A_i;
+    //   // tmp_y += Cy * A_i * A_i;
+    //   // tmp_z += Cz * A_i * A_i;
+    // }
+
+    //规则波
     for (double omega = min_omega; omega < max_omega; omega += delta_omega) {
-      psi = rand() % 100 * 0.0628;  //产生0-2pi的随机数
-      //
       A_i = sqrt(2 * delta_omega * ITTC_Spec(Hs, T_0, omega));
-      //波幅
-      // amp_wave += A_i * sin(omega * time_count + psi);
       amp_wave += A_i;
       //波幅平方
       amp_wave_2 = amp_wave * amp_wave;
-      //波长
-      lambda = 9.81 * 6.28 / (omega * omega);
-      Cx = 0.05 - 0.2 * (lambda / L) + 0.75 * pow((lambda / L), 2) -
-           0.51 * pow((lambda / L), 3);
-      Cy = 0.46 + 6.83 * (lambda / L) - 15.65 * pow((lambda / L), 2) +
-           8.44 * pow((lambda / L), 3);
-      Cz = -0.11 + 0.68 * (lambda / L) - 0.79 * pow((lambda / L), 2) +
-           0.21 * pow((lambda / L), 3);  //波浪力
-      double tmp_x += Cx * A_i * A_i;
-      double tmp_y += Cy * A_i * A_i;
-      double tmp_z += Cz * A_i * A_i;
     }
+
+    lambda = 9.81 * T_0 * T_0 / (4 * 3.1415926);
+    Cx = 0.05 - 0.2 * (lambda / L) + 0.75 * pow((lambda / L), 2) -
+         0.51 * pow((lambda / L), 3);
+    Cy = 0.46 + 6.83 * (lambda / L) - 15.65 * pow((lambda / L), 2) +
+         8.44 * pow((lambda / L), 3);
+    Cz = -0.11 + 0.68 * (lambda / L) - 0.79 * pow((lambda / L), 2) +
+         0.21 * pow((lambda / L), 3);  //波浪力
+
     // std::cout << "*****************************" << std::endl;
-    FX = 0.5 * rho * L * amp_wave_2 * tmp_x * cos(enFre);
-    FY = 0.5 * rho * L * amp_wave_2 * tmp_y * sin(enFre);
-    FZ = 0.5 * rho * L * L * amp_wave_2 * tmp_z * sin(enFre);
+    FX = 0.5 * rho * 9.81 * L * amp_wave_2 * cos(enFre);
+    FY = 0.5 * rho * 9.81 * L * amp_wave_2 * sin(enFre);
+    FZ = 0.5 * rho * 9.81 * L * L * amp_wave_2 * sin(enFre);
     _wave_force.wave_fx = FX;
     _wave_force.wave_fy = FY;
     _wave_force.wave_fz = FZ;
@@ -79,6 +97,9 @@ class mywave {
     Cx = 0;
     Cy = 0;
     Cz = 0;
+    tmp_x = 0;
+    tmp_y = 0;
+    tmp_z = 0;
     time_count += 1;
     if (time_count > all_time) time_count = 1;
   }
@@ -106,13 +127,14 @@ class mywave {
   double Hs = 0;                          // ITTC 有意波高
   double T_0 = 0;                         // ITTC 普风周期To
   int all_time = 200;                     //波浪仿真时间长度
-  int N_omega = 50;                       //叠加个数
+  int N_omega = 30;                       //叠加个数
   double L = 1;                           //船长
   double rho = 1025;                      //海水密度
-  double min_omega = 0.1, max_omega = 5;  //截至频率
+  double min_omega = 0.1, max_omega = 7;  //截至频率
   //内部
   double A_i = 0;
   double amp_wave = 0, amp_wave_2 = 0, amp_wave_output = 0;  //波浪幅值
+  double tmp_x = 0, tmp_y = 0, tmp_z = 0;
   double lambda = 0;   //波长，gT2/2pi //波长 g2pi/w^2
   double enFre = 1.7;  //遭遇频率
   int time_count = 1;

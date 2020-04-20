@@ -10,7 +10,7 @@
 
 int main() {
   // save_spec();
-  mywave _mywave(5, 9);
+  mywave _mywave(0.1, 5);
 
   //输出波浪普
   _mywave.save_spec();
@@ -20,7 +20,8 @@ int main() {
   outFile.open("2ndWaveForce.csv", ios::out);
   // wave_force_RTdata my_data;
   for (int i = 0; i < 400; i++) {
-    _mywave.cal_wave_force(1.57, 100);  //遭遇频率和船长
+    _mywave.cal_wave_force(1.57, 3.2, 0, 0, 0);  //遭遇频率和船长
+    std::cout << _mywave.get_wave_amp() << std::endl;
     outFile << i << ',' << _mywave.get_wave_force().wave_fx << ','
             << _mywave.get_wave_force().wave_fy << ','
             << _mywave.get_wave_force().wave_fz << ',' << _mywave.get_wave_amp()
